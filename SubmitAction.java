@@ -15,7 +15,7 @@ public class SubmitAction extends ActionSupport{
 	final String url = "jdbc:mysql://127.0.0.1:3306/bookdatabase";
 	final String user = "root";
 	final String password = "19930903";
-/*label4
+/*label4a
 	private String searchBookName;
 	private String searchAuthorName;
 	private String searchAuthorID;
